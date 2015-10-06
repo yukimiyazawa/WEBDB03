@@ -3,3 +3,5 @@
 Microsoft社の
 Bill Gate氏が
 講演会を行う
+講義内容は「Moon Micro Systems社の開発環境Moon-1を用いた開発」というテーマで、
+学生の受講料は2000円である
